@@ -1,5 +1,5 @@
 """
-Convert DNA sequences to RNA.
+Convert DNA sequences to RNA. Returns same case.
 """
 
 def rna(seq):
